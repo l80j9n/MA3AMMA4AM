@@ -10,7 +10,7 @@ where f(t) ∼ f0(t − a)λ as t → a, with λ > −1 and f0 a constant.
 8. (FOR STUDENTS TAKING MA4AM. NOT FOR STUDENTS TAKING MA3AM.)
 Derive the two-term asymptotic expansion
 
-as x → ∞, as follows. First show that h(t) = − sin2 t is maximised at t = 0, determine an expans代 写MA3AM/MA4AM ASYMPTOTIC METHODS PROBLEM SHEET 6Prolog
+as x → ∞, as follows. First show that h(t) = − sin2 t is maximised at t = 0, determine an expans代 写MA3AM/MA4AM ASYMPTOTIC METHODS PROBLEM SHEET 6
 代做程序编程语言ion of h(t) around this point up to terms of O(t4), and hence show that
 
 Then Taylor expand the quartic term up to terms of O(t4) (valid since 0 < t < δ ≪ 1) to yield
