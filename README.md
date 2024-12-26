@@ -1,21 +1,15 @@
 java c
-MA3AM/MA4AM ASYMPTOTIC METHODS 
-PROBLEM SHEET 5 
-1. Use integration by parts to show that
+MA3AM/MA4AM ASYMPTOTIC METHODS
+PROBLEM SHEET 4
+1. By expanding the integrand, show that
 (a)
 
-as x → ∞;
-(b)
+where 0 < ϵ ≪ 1;(b)
 
-as x → ∞, where [N] denotes the integer part of N, and
-  代 写MA3AM/MA4AM ASYMPTOTIC METHODS PROBLEM SHEET 5
-代做程序编程语言                         
-2. Use integration by parts to show that
+where 0 < ϵ ≪ 1;
+(c)
 
-3. Use integration by parts to show that
-
-
-
+where 0 < ϵ ≪ 1.
 
 
 
